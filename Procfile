@@ -1,1 +1,1 @@
-worker: node bot.js Skalmar Bot
+worker: node Skalmar Bot
