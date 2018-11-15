@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js", Skalmar Bot
+  "main": "Skalmar Bot", 
   "scripts": {
     "start": "node bot.js"
   },
