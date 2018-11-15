@@ -1,0 +1,2 @@
+# Skalmar-bot-
+Bot Skalmar
